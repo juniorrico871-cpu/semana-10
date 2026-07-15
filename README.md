@@ -2,3 +2,4 @@
 backlog-semana10.txt
 interacion-semana10.txt
 automatizacion-semana10.txt
+reflexión-semana10.txt
